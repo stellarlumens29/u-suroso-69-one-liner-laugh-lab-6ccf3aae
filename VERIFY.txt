@@ -1,0 +1,5 @@
+entry: 'The sock attacked first, so I defended the carpet. I regret nothing.'
+chars: 68 (limit 200)
+run1 sha256: c1316312fb1ec349931927b467a85dea7dbf96fabd8658f7e1a4e8fb85961e9a
+run2 sha256: c1316312fb1ec349931927b467a85dea7dbf96fabd8658f7e1a4e8fb85961e9a
+determinism: IDENTICAL
